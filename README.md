@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shailesh_WebDev?label=Follow)](https://twitter.com/intent/follow?screen_name=Shailesh_WebDev)
 [![Linkedin: Shailesh Parmar](https://img.shields.io/badge/-Shailesh_Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailesh-parmar-2525091b8/)](https://www.linkedin.com/in/shailesh-parmar-2525091b8/)
-![GitHub followers](https://img.shields.io/github/followers/ShaileshParmar11?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/ShaileshParmar11?label=Follow&style=social)](https://github.com/ShaileshParmar11)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shailesh-parmar.netlify.app/)](https://shailesh-parmar.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ShaileshParmar11)
 
