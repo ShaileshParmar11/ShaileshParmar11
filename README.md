@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Shailesh’s github activity graph](https://activity-graph.herokuapp.com/graph?username=ShaileshParmar11&theme=nord)](https://github.com/ShaileshParmar11)
 
-### **Recent Activity 🚀**
+### **Recent Activity :zap:**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
