@@ -42,14 +42,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### **Recent Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/2) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
-2. 🗣 Commented on [#417](https://github.com/actions/checkout/issues/417) in [actions/checkout](https://github.com/actions/checkout)
-3. 🎉 Merged PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
-4. 💪 Opened PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
-5. 💪 Opened PR [#4949](https://github.com/open-metadata/OpenMetadata/pull/4949) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗️ Opened issue [#4948](https://github.com/open-metadata/OpenMetadata/issues/4948) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Opened issue [#4898](https://github.com/open-metadata/OpenMetadata/issues/4898) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#4848](https://github.com/open-metadata/OpenMetadata/issues/4848) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#4891](https://github.com/open-metadata/OpenMetadata/pull/4891) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#4881](https://github.com/open-metadata/OpenMetadata/pull/4881) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#3](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/3) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+2. ❗️ Closed issue [#2](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/2) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+3. 💪 Opened PR [#3](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/3) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+4. 🗣 Commented on [#2](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/2) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+5. 🗣 Commented on [#417](https://github.com/actions/checkout/issues/417) in [actions/checkout](https://github.com/actions/checkout)
+6. 🎉 Merged PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
+7. 💪 Opened PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
+8. 💪 Opened PR [#4949](https://github.com/open-metadata/OpenMetadata/pull/4949) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Opened issue [#4948](https://github.com/open-metadata/OpenMetadata/issues/4948) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Opened issue [#4898](https://github.com/open-metadata/OpenMetadata/issues/4898) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
