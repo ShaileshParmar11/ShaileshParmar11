@@ -42,4 +42,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### **Recent Activity :zap:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
+2. 💪 Opened PR [#23](https://github.com/db7172/texamvp/pull/23) in [db7172/texamvp](https://github.com/db7172/texamvp)
+3. 💪 Opened PR [#4949](https://github.com/open-metadata/OpenMetadata/pull/4949) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Opened issue [#4948](https://github.com/open-metadata/OpenMetadata/issues/4948) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Opened issue [#4898](https://github.com/open-metadata/OpenMetadata/issues/4898) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#4848](https://github.com/open-metadata/OpenMetadata/issues/4848) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#4891](https://github.com/open-metadata/OpenMetadata/pull/4891) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#4881](https://github.com/open-metadata/OpenMetadata/pull/4881) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Opened issue [#4873](https://github.com/open-metadata/OpenMetadata/issues/4873) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#4745](https://github.com/open-metadata/OpenMetadata/issues/4745) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
