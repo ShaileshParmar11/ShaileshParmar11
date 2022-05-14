@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <p><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Shailesh+Parmar;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover+&#x1F496;"/></p>
 
 <a href="https://www.instagram.com/shailesh_parmar02/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
