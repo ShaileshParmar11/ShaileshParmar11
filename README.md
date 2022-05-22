@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5087](https://github.com/open-metadata/OpenMetadata/pull/5087) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-3. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-4. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-5. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-6. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-7. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-8. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-9. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-10. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+1. 🎉 Merged PR [#6](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/6) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+2. ❗️ Closed issue [#5](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/5) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+3. 💪 Opened PR [#6](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/6) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+4. 💪 Opened PR [#5087](https://github.com/open-metadata/OpenMetadata/pull/5087) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+6. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+7. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+8. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+9. ❌ Reopened PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+10. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
 <!--END_SECTION:activity-->
