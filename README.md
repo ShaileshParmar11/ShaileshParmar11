@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-2. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-3. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-4. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-5. ❗️ Opened issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-6. 🎉 Merged PR [#7](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/7) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
-7. ❗️ Closed issue [#4](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/4) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
-8. 💪 Opened PR [#7](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/7) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
-9. 🎉 Merged PR [#6](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/6) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
-10. ❗️ Closed issue [#5](https://github.com/ShaileshParmar11/ShaileshParmar11/issues/5) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
+1. 🗣 Commented on [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+2. ❗️ Closed issue [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+3. 🎉 Merged PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+4. 💪 Opened PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+5. ❗️ Closed issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+6. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+7. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+8. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+9. ❗️ Opened issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+10. 🎉 Merged PR [#7](https://github.com/ShaileshParmar11/ShaileshParmar11/pull/7) in [ShaileshParmar11/ShaileshParmar11](https://github.com/ShaileshParmar11/ShaileshParmar11)
 <!--END_SECTION:activity-->
