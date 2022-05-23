@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#5100](https://github.com/open-metadata/OpenMetadata/issues/5100) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Opened issue [#5097](https://github.com/open-metadata/OpenMetadata/issues/5097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-4. ❗️ Closed issue [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-5. 🎉 Merged PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-6. 💪 Opened PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-7. ❗️ Closed issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-8. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-9. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
-10. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+1. 💪 Opened PR [#5103](https://github.com/open-metadata/OpenMetadata/pull/5103) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Opened issue [#5100](https://github.com/open-metadata/OpenMetadata/issues/5100) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Opened issue [#5097](https://github.com/open-metadata/OpenMetadata/issues/5097) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+5. ❗️ Closed issue [#7](https://github.com/ShaileshParmar11/nodejs-projects/issues/7) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+6. 🎉 Merged PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+7. 💪 Opened PR [#8](https://github.com/ShaileshParmar11/nodejs-projects/pull/8) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+8. ❗️ Closed issue [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+9. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/Portfolio/issues/1) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
+10. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/Portfolio/pull/2) in [ShaileshParmar11/Portfolio](https://github.com/ShaileshParmar11/Portfolio)
 <!--END_SECTION:activity-->
