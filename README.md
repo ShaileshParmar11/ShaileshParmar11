@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
-2. ❗️ Opened issue [#5202](https://github.com/open-metadata/OpenMetadata/issues/5202) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Opened issue [#5201](https://github.com/open-metadata/OpenMetadata/issues/5201) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Opened issue [#5200](https://github.com/open-metadata/OpenMetadata/issues/5200) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#5199](https://github.com/open-metadata/OpenMetadata/issues/5199) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#5187](https://github.com/open-metadata/OpenMetadata/pull/5187) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#5186](https://github.com/open-metadata/OpenMetadata/pull/5186) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Opened issue [#5185](https://github.com/open-metadata/OpenMetadata/issues/5185) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Opened issue [#5182](https://github.com/open-metadata/OpenMetadata/issues/5182) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❌ Closed PR [#5166](https://github.com/open-metadata/OpenMetadata/pull/5166) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#1](https://github.com/ShaileshParmar11/react-auth0-demo/pull/1) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+2. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-auth0-demo/pull/1) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+3. ❌ Closed PR [#2](https://github.com/ShaileshParmar11/OpenMetadata/pull/2) in [ShaileshParmar11/OpenMetadata](https://github.com/ShaileshParmar11/OpenMetadata)
+4. ❗️ Opened issue [#5202](https://github.com/open-metadata/OpenMetadata/issues/5202) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Opened issue [#5201](https://github.com/open-metadata/OpenMetadata/issues/5201) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Opened issue [#5200](https://github.com/open-metadata/OpenMetadata/issues/5200) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❗️ Opened issue [#5199](https://github.com/open-metadata/OpenMetadata/issues/5199) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#5187](https://github.com/open-metadata/OpenMetadata/pull/5187) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#5186](https://github.com/open-metadata/OpenMetadata/pull/5186) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗️ Opened issue [#5185](https://github.com/open-metadata/OpenMetadata/issues/5185) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
