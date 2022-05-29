@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-2. 💪 Opened PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-3. 🎉 Merged PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-4. 💪 Opened PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-5. 🎉 Merged PR [#3](https://github.com/ShaileshParmar11/react-auth0-demo/pull/3) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-6. 💪 Opened PR [#3](https://github.com/ShaileshParmar11/react-auth0-demo/pull/3) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-7. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/react-auth0-demo/pull/2) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-8. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/react-auth0-demo/pull/2) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-9. 🎉 Merged PR [#1](https://github.com/ShaileshParmar11/react-auth0-demo/pull/1) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-10. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-auth0-demo/pull/1) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+1. 🎉 Merged PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+2. 💪 Opened PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+3. 🎉 Merged PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+4. 💪 Opened PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+5. 🎉 Merged PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+6. 💪 Opened PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+7. 🎉 Merged PR [#3](https://github.com/ShaileshParmar11/react-auth0-demo/pull/3) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+8. 💪 Opened PR [#3](https://github.com/ShaileshParmar11/react-auth0-demo/pull/3) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+9. 🎉 Merged PR [#2](https://github.com/ShaileshParmar11/react-auth0-demo/pull/2) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+10. 💪 Opened PR [#2](https://github.com/ShaileshParmar11/react-auth0-demo/pull/2) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
 <!--END_SECTION:activity-->
