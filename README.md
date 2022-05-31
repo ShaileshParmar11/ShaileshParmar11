@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#5221](https://github.com/open-metadata/OpenMetadata/issues/5221) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Closed issue [#5208](https://github.com/open-metadata/OpenMetadata/issues/5208) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#5208](https://github.com/open-metadata/OpenMetadata/issues/5208) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-5. 💪 Opened PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-6. 🎉 Merged PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-7. 💪 Opened PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-8. 🎉 Merged PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-9. 💪 Opened PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
-10. 🎉 Merged PR [#3](https://github.com/ShaileshParmar11/react-auth0-demo/pull/3) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+1. ❗️ Opened issue [#5233](https://github.com/open-metadata/OpenMetadata/issues/5233) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#5232](https://github.com/open-metadata/OpenMetadata/pull/5232) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗️ Opened issue [#5221](https://github.com/open-metadata/OpenMetadata/issues/5221) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Closed issue [#5208](https://github.com/open-metadata/OpenMetadata/issues/5208) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#5208](https://github.com/open-metadata/OpenMetadata/issues/5208) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+7. 💪 Opened PR [#6](https://github.com/ShaileshParmar11/react-auth0-demo/pull/6) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+8. 🎉 Merged PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+9. 💪 Opened PR [#5](https://github.com/ShaileshParmar11/react-auth0-demo/pull/5) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
+10. 🎉 Merged PR [#4](https://github.com/ShaileshParmar11/react-auth0-demo/pull/4) in [ShaileshParmar11/react-auth0-demo](https://github.com/ShaileshParmar11/react-auth0-demo)
 <!--END_SECTION:activity-->
