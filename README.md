@@ -1,6 +1,6 @@
 <!-- <p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/></p> -->
 <br />
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Shailesh+Parmar;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover+&#x1F496;"/></p>
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%23007ec6&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Shailesh+Parmar;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover+&#x1F496;"/></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shailesh_WebDev?label=Follow)](https://twitter.com/intent/follow?screen_name=Shailesh_WebDev)
 [![Linkedin: Shailesh Parmar](https://img.shields.io/badge/-Shailesh_Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailesh-parmar-2525091b8/)](https://www.linkedin.com/in/shailesh-parmar-2525091b8/)
