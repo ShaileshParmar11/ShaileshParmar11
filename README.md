@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/ShaileshParmar11/nodejs-projects/pull/10) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-2. 💪 Opened PR [#10](https://github.com/ShaileshParmar11/nodejs-projects/pull/10) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-3. 🎉 Merged PR [#9](https://github.com/ShaileshParmar11/nodejs-projects/pull/9) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-4. 💪 Opened PR [#9](https://github.com/ShaileshParmar11/nodejs-projects/pull/9) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
-5. 💪 Opened PR [#5975](https://github.com/open-metadata/OpenMetadata/pull/5975) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗️ Closed issue [#5960](https://github.com/open-metadata/OpenMetadata/issues/5960) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗️ Closed issue [#5955](https://github.com/open-metadata/OpenMetadata/issues/5955) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#5957](https://github.com/open-metadata/OpenMetadata/pull/5957) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❗️ Opened issue [#5960](https://github.com/open-metadata/OpenMetadata/issues/5960) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#5957](https://github.com/open-metadata/OpenMetadata/pull/5957) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#5975](https://github.com/open-metadata/OpenMetadata/pull/5975) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#5897](https://github.com/open-metadata/OpenMetadata/issues/5897) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#10](https://github.com/ShaileshParmar11/nodejs-projects/pull/10) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+4. 💪 Opened PR [#10](https://github.com/ShaileshParmar11/nodejs-projects/pull/10) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+5. 🎉 Merged PR [#9](https://github.com/ShaileshParmar11/nodejs-projects/pull/9) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+6. 💪 Opened PR [#9](https://github.com/ShaileshParmar11/nodejs-projects/pull/9) in [ShaileshParmar11/nodejs-projects](https://github.com/ShaileshParmar11/nodejs-projects)
+7. 💪 Opened PR [#5975](https://github.com/open-metadata/OpenMetadata/pull/5975) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Closed issue [#5960](https://github.com/open-metadata/OpenMetadata/issues/5960) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#5955](https://github.com/open-metadata/OpenMetadata/issues/5955) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#5957](https://github.com/open-metadata/OpenMetadata/pull/5957) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
