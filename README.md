@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6415](https://github.com/open-metadata/OpenMetadata/pull/6415) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#6395](https://github.com/open-metadata/OpenMetadata/pull/6395) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#6381](https://github.com/open-metadata/OpenMetadata/pull/6381) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Reopened issue [#6211](https://github.com/open-metadata/OpenMetadata/issues/6211) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#6381](https://github.com/open-metadata/OpenMetadata/pull/6381) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#6361](https://github.com/open-metadata/OpenMetadata/pull/6361) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#6358](https://github.com/open-metadata/OpenMetadata/pull/6358) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#6347](https://github.com/open-metadata/OpenMetadata/pull/6347) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#6277](https://github.com/open-metadata/OpenMetadata/pull/6277) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#6314](https://github.com/open-metadata/OpenMetadata/issues/6314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Closed issue [#6164](https://github.com/open-metadata/OpenMetadata/issues/6164) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#6164](https://github.com/open-metadata/OpenMetadata/issues/6164) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#6415](https://github.com/open-metadata/OpenMetadata/pull/6415) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#6395](https://github.com/open-metadata/OpenMetadata/pull/6395) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#6381](https://github.com/open-metadata/OpenMetadata/pull/6381) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Reopened issue [#6211](https://github.com/open-metadata/OpenMetadata/issues/6211) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#6381](https://github.com/open-metadata/OpenMetadata/pull/6381) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#6361](https://github.com/open-metadata/OpenMetadata/pull/6361) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#6358](https://github.com/open-metadata/OpenMetadata/pull/6358) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#6347](https://github.com/open-metadata/OpenMetadata/pull/6347) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
