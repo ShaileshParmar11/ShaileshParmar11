@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❌ Closed PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-3. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/react-play/issues/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-4. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-6. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#74](https://github.com/ykdojo/defaang/issues/74) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
+2. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. ❌ Closed PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
+4. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/react-play/issues/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
+5. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
 7. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. ❗️ Closed issue [#508](https://github.com/reactplay/react-play/issues/508) in [reactplay/react-play](https://github.com/reactplay/react-play)
-9. 🗣 Commented on [#508](https://github.com/reactplay/react-play/issues/508) in [reactplay/react-play](https://github.com/reactplay/react-play)
+8. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. ❗️ Closed issue [#508](https://github.com/reactplay/react-play/issues/508) in [reactplay/react-play](https://github.com/reactplay/react-play)
 10. 🗣 Commented on [#508](https://github.com/reactplay/react-play/issues/508) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
