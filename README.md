@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#6783](https://github.com/open-metadata/OpenMetadata/issues/6783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 2. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#74](https://github.com/ykdojo/defaang/issues/74) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
-4. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. ❌ Closed PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-6. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/react-play/issues/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-7. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-8. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
-9. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🗣 Commented on [#74](https://github.com/ykdojo/defaang/issues/74) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
+5. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+6. ❌ Closed PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
+7. 🗣 Commented on [#1](https://github.com/ShaileshParmar11/react-play/issues/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
+8. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+9. 💪 Opened PR [#1](https://github.com/ShaileshParmar11/react-play/pull/1) in [ShaileshParmar11/react-play](https://github.com/ShaileshParmar11/react-play)
 10. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
