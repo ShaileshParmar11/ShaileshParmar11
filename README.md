@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❗️ Closed issue [#6731](https://github.com/open-metadata/OpenMetadata/issues/6731) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#6731](https://github.com/open-metadata/OpenMetadata/issues/6731) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗️ Closed issue [#6557](https://github.com/open-metadata/OpenMetadata/issues/6557) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#6557](https://github.com/open-metadata/OpenMetadata/issues/6557) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#74](https://github.com/ykdojo/defaang/issues/74) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
-7. 💪 Opened PR [#1644](https://github.com/EddieHubCommunity/LinkFree/pull/1644) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-8. 🗣 Commented on [#6783](https://github.com/open-metadata/OpenMetadata/issues/6783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#6783](https://github.com/open-metadata/OpenMetadata/issues/6783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🎉 Merged PR [#6848](https://github.com/open-metadata/OpenMetadata/pull/6848) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❗️ Closed issue [#6782](https://github.com/open-metadata/OpenMetadata/issues/6782) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#6783](https://github.com/open-metadata/OpenMetadata/pull/6783) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#506](https://github.com/reactplay/react-play/issues/506) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Closed issue [#6731](https://github.com/open-metadata/OpenMetadata/issues/6731) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#6731](https://github.com/open-metadata/OpenMetadata/issues/6731) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❗️ Closed issue [#6557](https://github.com/open-metadata/OpenMetadata/issues/6557) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#6557](https://github.com/open-metadata/OpenMetadata/issues/6557) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#74](https://github.com/ykdojo/defaang/issues/74) in [ykdojo/defaang](https://github.com/ykdojo/defaang)
+10. 💪 Opened PR [#1644](https://github.com/EddieHubCommunity/LinkFree/pull/1644) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
