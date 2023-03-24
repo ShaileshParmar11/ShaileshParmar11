@@ -58,14 +58,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10635](https://github.com/open-metadata/OpenMetadata/issues/10635) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#10728](https://github.com/open-metadata/OpenMetadata/pull/10728) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#10715](https://github.com/open-metadata/OpenMetadata/pull/10715) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#10699](https://github.com/open-metadata/OpenMetadata/pull/10699) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#53](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/53) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-6. 🗣 Commented on [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+1. 🗣 Commented on [#10728](https://github.com/open-metadata/OpenMetadata/issues/10728) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#10635](https://github.com/open-metadata/OpenMetadata/issues/10635) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#10728](https://github.com/open-metadata/OpenMetadata/pull/10728) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#10715](https://github.com/open-metadata/OpenMetadata/pull/10715) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#10699](https://github.com/open-metadata/OpenMetadata/pull/10699) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Opened issue [#53](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/53) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
 7. 🗣 Commented on [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-8. ❗️ Opened issue [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
-9. ❗️ Opened issue [#10653](https://github.com/open-metadata/OpenMetadata/issues/10653) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#10635](https://github.com/open-metadata/OpenMetadata/pull/10635) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+9. ❗️ Opened issue [#52](https://github.com/OpenSource-Journey/Your-Github-Contributions/issues/52) in [OpenSource-Journey/Your-Github-Contributions](https://github.com/OpenSource-Journey/Your-Github-Contributions)
+10. ❗️ Opened issue [#10653](https://github.com/open-metadata/OpenMetadata/issues/10653) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
