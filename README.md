@@ -10,12 +10,13 @@
 
 <br />
 
-Hi, I'm [Shailesh Parmar](https://shailesh-parmar.netlify.app/), a passionate self-taught developer & a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build.
+Hello, I'm [Shailesh Parmar](https://shailesh-parmar.netlify.app/), a dedicated self-taught developer and freelance software engineer hailing from India. I find immense joy in transforming ideas into reality with elegant interfaces. When it comes to the software I create, I prioritize the user experience, robust architecture, and high code quality.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community & I love how collaboration & knowledge sharing happened through open-source.
+As an ardent supporter of open-source, I actively contribute to the community and serve as a maintainer. The open-source realm has been a valuable source of learning for me, and I truly appreciate the collaborative nature and knowledge-sharing opportunities it presents.
 
-- 💼 any freelance work? do reach, [email](mailto:shailesh.parmar.webdev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+💼 Open to freelance opportunities! Feel free to reach out via [email](mailto:shailesh.parmar.webdev@gmail.com).
+
+💬 Have a question or need assistance? I'm more than happy to help!
 
 <br />
 
