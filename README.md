@@ -59,14 +59,14 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#24028](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2.  Labeled issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4.  Assigned issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❌ Assigned PR [#24028](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#24028](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3.  Labeled issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 5.  Assigned issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❌ Labeled PR [#23900](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❌ Assigned PR [#23437](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❌ Labeled PR [#23895](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❌ Labeled PR [#23886](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❌ Labeled PR [#23885](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6.  Assigned issue [#24019](https://github.com/open-metadata/OpenMetadata/issues/24019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❌ Labeled PR [#23900](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❌ Assigned PR [#23437](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❌ Labeled PR [#23895](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❌ Labeled PR [#23886](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
