@@ -59,13 +59,13 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1.  Assigned issue [#24356](https://github.com/open-metadata/OpenMetadata/issues/24356) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❌ Labeled PR [#24432](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#24429](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#24330](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🔒 Closed issue [#23991](https://github.com/open-metadata/OpenMetadata/issues/23991) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#24242](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❌ Assigned PR [#24118](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#24429](https://github.com/open-metadata/OpenMetadata/pull/24429#issuecomment-3552081859) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2.  Assigned issue [#24356](https://github.com/open-metadata/OpenMetadata/issues/24356) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❌ Labeled PR [#24432](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#24429](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#24330](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#23991](https://github.com/open-metadata/OpenMetadata/issues/23991) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#24242](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 💪 Opened PR [#24118](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. ❌ Assigned PR [#24098](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 10. 💪 Opened PR [#24098](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
