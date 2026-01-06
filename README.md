@@ -66,7 +66,7 @@ As an ardent supporter of open-source, I actively contribute to the community an
 5. 🗣 Commented on [#23395](https://github.com/open-metadata/OpenMetadata/issues/23395#issuecomment-3713455583) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. ℹ️ Unassigned issue [#23398](https://github.com/open-metadata/OpenMetadata/issues/23398) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. ℹ️ Assigned issue [#23398](https://github.com/open-metadata/OpenMetadata/issues/23398) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ℹ️ Assigned issue [#23396](https://github.com/open-metadata/OpenMetadata/issues/23396) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ℹ️ Unassigned issue [#23396](https://github.com/open-metadata/OpenMetadata/issues/23396) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ℹ️ Unassigned issue [#23396](https://github.com/open-metadata/OpenMetadata/issues/23396) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ℹ️ Assigned issue [#23396](https://github.com/open-metadata/OpenMetadata/issues/23396) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 10. ℹ️ Assigned issue [#23227](https://github.com/open-metadata/OpenMetadata/issues/23227) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
