@@ -61,8 +61,8 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 1. ℹ️ Labeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 2. ℹ️ Labeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ℹ️ Unlabeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ℹ️ Labeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Labeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ℹ️ Unlabeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 5. ℹ️ Unlabeled PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. ℹ️ Assigned PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 💪 Opened PR [#26437](https://github.com/open-metadata/OpenMetadata/pull/26437) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
