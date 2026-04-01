@@ -59,13 +59,13 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#26705](https://github.com/open-metadata/OpenMetadata/issues/26705) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#26765](https://github.com/open-metadata/OpenMetadata/pull/26765) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#26788](https://github.com/open-metadata/OpenMetadata/pull/26788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ℹ️ Assigned PR [#26788](https://github.com/open-metadata/OpenMetadata/pull/26788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#26788](https://github.com/open-metadata/OpenMetadata/pull/26788) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#26765](https://github.com/open-metadata/OpenMetadata/pull/26765) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ℹ️ Unassigned issue [#26227](https://github.com/open-metadata/OpenMetadata/issues/26227) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗ Opened issue [#26915](https://github.com/open-metadata/OpenMetadata/issues/26915) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Labeled issue [#26909](https://github.com/open-metadata/OpenMetadata/issues/26909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#26911](https://github.com/open-metadata/OpenMetadata/pull/26911) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ℹ️ Assigned issue [#26909](https://github.com/open-metadata/OpenMetadata/issues/26909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗ Opened issue [#26909](https://github.com/open-metadata/OpenMetadata/issues/26909) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#26705](https://github.com/open-metadata/OpenMetadata/issues/26705) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#26765](https://github.com/open-metadata/OpenMetadata/pull/26765) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. ℹ️ Assigned issue [#26756](https://github.com/open-metadata/OpenMetadata/issues/26756) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 9. ℹ️ Labeled issue [#26756](https://github.com/open-metadata/OpenMetadata/issues/26756) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 10. ❗ Opened issue [#26756](https://github.com/open-metadata/OpenMetadata/issues/26756) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
