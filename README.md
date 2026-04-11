@@ -59,14 +59,14 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27212](https://github.com/open-metadata/OpenMetadata/pull/27212) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#27124](https://github.com/open-metadata/OpenMetadata/issues/27124) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ℹ️ Assigned issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#27274](https://github.com/open-metadata/OpenMetadata/pull/27274) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#27212](https://github.com/open-metadata/OpenMetadata/pull/27212) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🔒 Closed issue [#27124](https://github.com/open-metadata/OpenMetadata/issues/27124) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 4. ℹ️ Assigned issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ℹ️ Labeled issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ℹ️ Assigned issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. ℹ️ Labeled issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. ℹ️ Labeled issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗ Opened issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ℹ️ Unassigned issue [#23471](https://github.com/open-metadata/OpenMetadata/issues/23471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ℹ️ Assigned issue [#23471](https://github.com/open-metadata/OpenMetadata/issues/23471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ℹ️ Labeled issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗ Opened issue [#27073](https://github.com/open-metadata/OpenMetadata/issues/27073) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ℹ️ Unassigned issue [#23471](https://github.com/open-metadata/OpenMetadata/issues/23471) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
