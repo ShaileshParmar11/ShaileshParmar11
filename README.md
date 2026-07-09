@@ -59,7 +59,7 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#29848](https://github.com/open-metadata/OpenMetadata/pull/29848) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#29784](https://github.com/open-metadata/OpenMetadata/pull/29784#issuecomment-4926837127) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 2. 🗣 Commented on [#29784](https://github.com/open-metadata/OpenMetadata/pull/29784#issuecomment-4895115488) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 3. 💪 Opened PR [#29784](https://github.com/open-metadata/OpenMetadata/pull/29784) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 4. ❌ Closed PR [#29780](https://github.com/open-metadata/OpenMetadata/pull/29780) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
