@@ -59,11 +59,11 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ℹ️ Assigned issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#29784](https://github.com/open-metadata/OpenMetadata/pull/29784#issuecomment-4926837127) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#29780](https://github.com/open-metadata/OpenMetadata/pull/29780#issuecomment-4894784061) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#29928](https://github.com/open-metadata/OpenMetadata/pull/29928) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Labeled issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Assigned issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#29908](https://github.com/open-metadata/OpenMetadata/issues/29908) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#29784](https://github.com/open-metadata/OpenMetadata/pull/29784#issuecomment-4926837127) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 6. 💪 Opened PR [#29780](https://github.com/open-metadata/OpenMetadata/pull/29780) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 7. 🎉 Merged PR [#29744](https://github.com/open-metadata/OpenMetadata/pull/29744) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 🔒 Closed issue [#29748](https://github.com/open-metadata/OpenMetadata/issues/29748) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
