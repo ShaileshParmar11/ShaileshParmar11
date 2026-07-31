@@ -59,14 +59,14 @@ As an ardent supporter of open-source, I actively contribute to the community an
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#527](https://github.com/open-metadata/openmetadata-helm-charts/pull/527) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
-2. 💪 Opened PR [#394](https://github.com/open-metadata/openmetadata-site/pull/394) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
-3. 💪 Opened PR [#363](https://github.com/open-metadata/docs-om/pull/363) in [open-metadata/docs-om](https://github.com/open-metadata/docs-om)
-4. 🎉 Merged PR [#30713](https://github.com/open-metadata/OpenMetadata/pull/30713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#30713](https://github.com/open-metadata/OpenMetadata/pull/30713) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ℹ️ Assigned issue [#30654](https://github.com/open-metadata/OpenMetadata/issues/30654) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#30655](https://github.com/open-metadata/OpenMetadata/pull/30655) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗ Opened issue [#30654](https://github.com/open-metadata/OpenMetadata/issues/30654) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#30512](https://github.com/open-metadata/OpenMetadata/pull/30512) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🔒 Closed issue [#30547](https://github.com/open-metadata/OpenMetadata/issues/30547) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#394](https://github.com/open-metadata/openmetadata-site/pull/394) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+2. 🎉 Merged PR [#363](https://github.com/open-metadata/docs-om/pull/363) in [open-metadata/docs-om](https://github.com/open-metadata/docs-om)
+3. 🗣 Commented on [#147](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart/pull/147#issuecomment-5142374503) in [open-metadata/hybrid-ingestion-runner-helm-chart](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart)
+4. ❌ Closed PR [#147](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart/pull/147) in [open-metadata/hybrid-ingestion-runner-helm-chart](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart)
+5. ❌ Closed PR [#527](https://github.com/open-metadata/openmetadata-helm-charts/pull/527) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
+6. 🗣 Commented on [#527](https://github.com/open-metadata/openmetadata-helm-charts/pull/527#issuecomment-5142342678) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
+7. 💪 Opened PR [#147](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart/pull/147) in [open-metadata/hybrid-ingestion-runner-helm-chart](https://github.com/open-metadata/hybrid-ingestion-runner-helm-chart)
+8. 💪 Opened PR [#527](https://github.com/open-metadata/openmetadata-helm-charts/pull/527) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
+9. 💪 Opened PR [#394](https://github.com/open-metadata/openmetadata-site/pull/394) in [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site)
+10. 💪 Opened PR [#363](https://github.com/open-metadata/docs-om/pull/363) in [open-metadata/docs-om](https://github.com/open-metadata/docs-om)
 <!--END_SECTION:activity-->
