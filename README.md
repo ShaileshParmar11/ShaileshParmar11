@@ -1,72 +1,48 @@
-<!-- <p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/></p> -->
-<br />
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%23007ec6&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Shailesh+Parmar;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Tech+Lover+&#x1F496;"/></p>
+<h1 align="center">Hi, I'm Shailesh Parmar 👋</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shailesh_WebDev?label=Follow)](https://twitter.com/intent/follow?screen_name=Shailesh_WebDev)
-[![Linkedin: Shailesh Parmar](https://img.shields.io/badge/-Shailesh_Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shailesh-parmar-2525091b8/)](https://www.linkedin.com/in/shailesh-parmar-2525091b8/)
-[![GitHub followers](https://img.shields.io/github/followers/ShaileshParmar11?label=Follow&style=social)](https://github.com/ShaileshParmar11)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shailesh-parmar.netlify.app/)](https://shailesh-parmar.netlify.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=ShaileshParmar11)
+<p align="center">
+  <b>Frontend Engineer</b> · <b>Core UI Committer @<a href="https://github.com/open-metadata">OpenMetadata</a></b> · React &amp; TypeScript
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/open-metadata/OpenMetadata"><img src="https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&label=OpenMetadata%20%E2%AD%90" alt="OpenMetadata stars"></a>
+</p>
 
-Hello, I'm [Shailesh Parmar](https://shailesh-parmar.netlify.app/), a dedicated self-taught developer and freelance software engineer hailing from India. I find immense joy in transforming ideas into reality with elegant interfaces. When it comes to the software I create, I prioritize the user experience, robust architecture, and high code quality.
+<p align="center">
+  <a href="https://linkedin.com/in/shailesh-parmar-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://shailesh-parmar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:shailesh.parmar.webdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-As an ardent supporter of open-source, I actively contribute to the community and serve as a maintainer. The open-source realm has been a valuable source of learning for me, and I truly appreciate the collaborative nature and knowledge-sharing opportunities it presents.
+---
 
-💼 Open to freelance opportunities! Feel free to reach out via [email](mailto:shailesh.parmar.webdev@gmail.com).
+I build enterprise-scale frontends in React and TypeScript. I'm a **core UI committer on [OpenMetadata](https://github.com/open-metadata/OpenMetadata)**, the open-source data platform built by Collate, where I own the **Data Observability** UI — the product's core differentiator.
 
-💬 Have a question or need assistance? I'm more than happy to help!
+### 🔭 What I'm working on
 
-<br />
+- Own the **Data Observability UI** in OpenMetadata — Data Quality, Data Profiler, Incident Manager, and Column-Level Lineage, built from the ground up.
+- Founded the project's **Playwright test infrastructure**, migrating 600+ E2E tests off Cypress into a stable regression safety net.
+- 1,100+ merged PRs across the platform, plus code reviews, technical interviews, and mentoring on the frontend team.
 
-### **Languages and Tools:**
+### 🛠️ Tech I reach for
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg" alt="bootstrap" width="50" height="50"/> </a> </p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br />
+### 🚀 Selected work
 
-### **Most Used Languages**
+| Project | What it is | Links |
+|---|---|---|
+| **OpenMetadata** | Core UI committer on the open-source data observability platform | [Repo](https://github.com/open-metadata/OpenMetadata) · [My PRs](https://github.com/open-metadata/OpenMetadata/pulls?q=is%3Apr+author%3AShaileshParmar11+is%3Amerged) |
+| **Code Snippet Builder** | Drag-and-drop code snippet builder, 650+ users. React, TS, Chakra UI, Appwrite | [Live](https://snippetbuilder.com) |
+| **ReactPlay** | Open-source community platform to learn & share ReactJS projects | [Live](https://reactplay.io) |
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshparmar11&show_icons=true&locale=en" alt="shaileshparmar11" /></p>
-
-### **Github Streak**
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshparmar11&" alt="shaileshparmar11" /></p>
-
-### **Github States**
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=shaileshparmar11&show_icons=true&locale=en" alt="shaileshparmar11" /></p>
-
-[![Shailesh’s github activity graph](https://activity-graph.herokuapp.com/graph?username=ShaileshParmar11&theme=nord)](https://github.com/ShaileshParmar11)
-
-### **Recent Activity :zap:**
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#31301](https://github.com/open-metadata/OpenMetadata/pull/31301#issuecomment-5242066842) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#31301](https://github.com/open-metadata/OpenMetadata/pull/31301) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#31077](https://github.com/open-metadata/OpenMetadata/issues/31077) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ℹ️ Assigned PR [#31241](https://github.com/open-metadata/OpenMetadata/pull/31241) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#31241](https://github.com/open-metadata/OpenMetadata/pull/31241) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#31240](https://github.com/open-metadata/OpenMetadata/pull/31240) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#31240](https://github.com/open-metadata/OpenMetadata/pull/31240) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🎉 Merged PR [#31234](https://github.com/open-metadata/OpenMetadata/pull/31234) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#31234](https://github.com/open-metadata/OpenMetadata/pull/31234) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#31176](https://github.com/open-metadata/OpenMetadata/pull/31176) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-<!--END_SECTION:activity-->
+<p align="center">
+  <i>Open to frontend / SDE opportunities — feel free to reach out.</i>
+</p>
